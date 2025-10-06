@@ -1,4 +1,4 @@
-#  Used Cars Price Prediction - Data Mining Midterm Project
+# 🚗 Used Cars Price Prediction — Data Mining Midterm Project
 
 This project aims to **predict the price of used cars** using a dataset from Kaggle.  
 The model applies **Linear Regression** with Python on Google Colab, focusing on practical steps of **data preprocessing**, **feature engineering**, and **model evaluation**.
@@ -69,24 +69,12 @@ Evaluate the model using several metrics:
 
 ---
 
-## 📷 Visualization Example
-
-![Prediction vs Actual](hasil_prediksi.png)
-
-The scatter plot above shows that most predicted prices are close to the actual prices,  
-indicating that the Linear Regression model performs reasonably well on this dataset.
-
----
-
 ## 🧩 Repository Structure
-used-cars-price-prediction/
-│
-├── README.md # Project documentation (this file)
-├── UTS_Data_Mining.ipynb # Main Google Colab notebook
-├── used_cars_price_fiks.csv # Dataset file
-├── slides_uts_datamining.pptx # Presentation slides
-└── hasil_prediksi.png # Visualization of model predictions
 
+- README.md # Project documentation (this file)
+- Used Car Price Prediction.ipynb # Main Google Colab notebook
+- used_cars_price_fiks.csv # Dataset file
+- Presentation and Explanation Slide.pdf # Presentation slides
 
 ---
 
@@ -99,11 +87,3 @@ This project demonstrates how to:
 
 Through this project, we can better understand how simple regression models can be used  
 to make data-driven predictions for real business scenarios such as car pricing.
-
----
-
-**Created by:** *[Your Name]*  
-*Data Mining — Semester 5 (Informatics Department)*  
-
-
-benerin
